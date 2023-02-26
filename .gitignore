@@ -1,0 +1,6 @@
+chromedriver.exe
+LICENSE.chromedriver
+.idea/
+Lib/
+Scripts/
+pyvenv.cfg
