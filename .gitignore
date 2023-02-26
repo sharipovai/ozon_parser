@@ -4,4 +4,4 @@ LICENSE.chromedriver
 Lib/
 Scripts/
 pyvenv.cfg
-html/
+html/ozon_page.html
