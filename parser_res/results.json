@@ -1,62 +1,22 @@
-﻿[
-    {
+{
+    "e039810ef4bebc797d48766b21166139": {
         "item_name": "Кофе в зернах Jacobs Espresso, арабика, робуста, 1000г",
-        "item_price": "999",
         "item_url": "https://www.ozon.ru/product/kofe-v-zernah-jacobs-espresso-arabika-robusta-1000g-148323050/",
-        "request_time": "2023-02-21 11:30:17"
-    }
-][
-    {
-        "item_name": "Кофе в зернах Jacobs Espresso, арабика, робуста, 1000г",
-        "item_price": "999",
-        "item_url": "https://www.ozon.ru/product/kofe-v-zernah-jacobs-espresso-arabika-robusta-1000g-148323050/",
-        "request_time": "2023-02-21 16:23:41"
-    }
-][
-    {
-        "item_name": "Кофе в зернах Jacobs Espresso, арабика, робуста, 1000г",
-        "item_price": "1079",
-        "item_url": "https://www.ozon.ru/product/kofe-v-zernah-jacobs-espresso-arabika-robusta-1000g-148323050/",
-        "request_time": "2023-02-24 14:17:01"
-    }
-][
-    {
-        "item_name": "Кофе в зернах Jacobs Espresso, арабика, робуста, 1000г",
-        "item_price": "1079",
-        "item_url": "https://www.ozon.ru/product/kofe-v-zernah-jacobs-espresso-arabika-robusta-1000g-148323050/",
-        "request_time": "2023-02-26 19:28:41"
-    }
-][
-    {
-        "item_name": "Кофе в зернах Jacobs Espresso, арабика, робуста, 1000г",
-        "item_price": "1079",
-        "item_url": "https://www.ozon.ru/product/kofe-v-zernah-jacobs-espresso-arabika-robusta-1000g-148323050/",
-        "request_time": "2023-02-26 19:29:32"
-    }
-][
-    {
-        "item_name": "Кофе в зернах Jacobs Espresso, арабика, робуста, 1000г",
-        "item_price": "1079",
-        "item_url": "https://www.ozon.ru/product/kofe-v-zernah-jacobs-espresso-arabika-robusta-1000g-148323050/",
-        "request_time": "2023-02-26 19:30:41"
+        "item_price": [
+            "1079"
+        ],
+        "request_date": [
+            "2023-02-26"
+        ]
     },
-    {
+    "5eddc45762fe8570e38c9034086fb5d2": {
         "item_name": "Кроссовки Tommy Hilfiger",
-        "item_price": "4505",
         "item_url": "https://www.ozon.ru/product/krossovki-tommy-hilfiger-173486497/",
-        "request_time": "2023-02-26 19:30:59"
+        "item_price": [
+            "4505"
+        ],
+        "request_date": [
+            "2023-02-26"
+        ]
     }
-][
-    {
-        "item_name": "Кофе в зернах Jacobs Espresso, арабика, робуста, 1000г",
-        "item_price": "1079",
-        "item_url": "https://www.ozon.ru/product/kofe-v-zernah-jacobs-espresso-arabika-robusta-1000g-148323050/",
-        "request_time": "2023-02-26 19:36:09"
-    },
-    {
-        "item_name": "Кроссовки Tommy Hilfiger",
-        "item_price": "4505",
-        "item_url": "https://www.ozon.ru/product/krossovki-tommy-hilfiger-173486497/",
-        "request_time": "2023-02-26 19:36:25"
-    }
-]
+}
